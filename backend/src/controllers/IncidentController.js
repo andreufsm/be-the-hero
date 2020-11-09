@@ -1,5 +1,5 @@
 const connection = require("../database/connection");
-const { index } = require("./OngController");
+//const { index } = require("./OngController");
 
 module.exports = {
     async index(request, response){

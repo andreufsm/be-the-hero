@@ -1,15 +1,12 @@
-const { index } = require("./OngController");
-
-const connection = require("../database/connection");
+const connection = require('../database/connection')
 
 module.exports = {
-    async index(request, response){
-        const ong_id = request.headers.authorization;
-        const incidents = await connection('incidents')
-        .where('ong_id', ong_id)
-        .select('*');
+  async index(request, response) {
+    const ong_id = request.headers.authorization
 
-        return response.json('incidents');
+    const incidents = await connection('incidents').where('ong_id', ong_id)
+    .select('*');
 
-    }
+  return response.json(incidents);
+  }
 }
