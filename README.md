@@ -46,4 +46,4 @@ Rode ```npm start``` nas pastas backend e mobile, acesse **localhost:19002**, le
 ---
 
 <h4 align="center"> <em>&lt;/&gt;</em> by <a href="https://github.com/andreufsm" target="_blank">andreufsm</a> 
-</h4><h4 align="center"> <em>&lt;/&gt;</em> by <a href="https://instagram.com/andre.lpd" target="_blank">andreufsm</a> </h4>
+</h4><h4 align="center"> <em>&lt;/&gt;</em> Me segue lá no <a href="https://instagram.com/andre.lpd" target="_blank">instagram</a> </h4>
