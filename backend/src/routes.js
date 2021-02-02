@@ -38,11 +38,11 @@ routes.delete('/incidents/:id', celebrate({
 }), IncidentController.delete); 
 
 // ProfileController.js
-routes.get('/profile',  celebrate({
+routes.get('/profile', celebrate({
   [Segments.HEADERS]: Joi.object({
-      authorization: Joi.string().required(),
-    }).unknown
-  }), ProfileController.index);
+    authorization: Joi.string().required(),
+  }).unknown(),
+}), ProfileController.index)
 
 // SessionController.js
 routes.post('/sessions', SessionController.create);
