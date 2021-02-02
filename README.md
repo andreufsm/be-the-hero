@@ -56,4 +56,5 @@ Veja também esse [vídeo](https://youtu.be/UygqW2eBJJA) com a demonstração da
 
 ---
 
-<h4 align="center"> <em>&lt;/&gt;</em> by <a href="https://github.com/andreufsm" target="_blank">andreufsm</a> </h4>
+<h4 align="center"> <em>&lt;/&gt;</em> by <a href="https://github.com/andreufsm" target="_blank">andreufsm</a> 
+</h4><h4 align="center"> <em>&lt;/&gt;</em> by <a href="https://instagram.com/andre.lpd" target="_blank">andreufsm</a> </h4>
