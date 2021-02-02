@@ -8,13 +8,7 @@
 
 <p align="center"> <img src="imgs/heroes.png" alt="heroes" height="250"> </p>
 
-<p align="center"> Usando o poder de uma stack poderosa, que utiliza de uma única linguagem popular e moderna, o <img src="imgs/js.png" height="18" alt="javascript"> JavaScript. <br> Produtividade e performance de forma enxuta. </p>
-
 ---
-
-A 11ª edição da Semana OmniStack, ocorrida entre 23/03 e 27/03, trouxe como projeto uma aplicação web e mobile inédita. Um sistema para conectar pessoas dispostas a ajudar a ONGs que precisam dessa ajuda.
-
-Em uma semana foi desenvolvida uma aplicação do zero, dominando o backend, frontend e o mobile com uma única linguagem e uma única biblioteca de interfaces.
 
 [Layout](https://www.figma.com/file/2C2yvw7jsCOGmaNUDftX9n/Be-The-Hero---OmniStack-11?node-id=0%3A1) da aplicação no <img src="imgs/figma.png" alt="figma" height="20"> Figma.
 
@@ -37,13 +31,8 @@ Rode ```npm start``` nas pastas backend e mobile, acesse **localhost:19002**, le
     <img alt="" title="" src="imgs/print4.png">
     <img alt="" title="" src="imgs/print5.png">
     <img alt="" title="" src="imgs/print6.png">
-    <img alt="" title="" src="imgs/print7.png">
-    <img alt="" title="" src="imgs/print8.png">
-    <img alt="" title="" src="imgs/print9.png">
     <img alt="" title="" src="imgs/print-insomnia.png">
 </p>
-
-Veja também esse [vídeo](https://youtu.be/UygqW2eBJJA) com a demonstração das versões web e mobile rodando localmente.
 
 ---
 
@@ -57,4 +46,4 @@ Veja também esse [vídeo](https://youtu.be/UygqW2eBJJA) com a demonstração da
 ---
 
 <h4 align="center"> <em>&lt;/&gt;</em> by <a href="https://github.com/andreufsm" target="_blank">andreufsm</a> 
-</h4><h4 align="center"> <em>&lt;/&gt;</em> by <a href="https://instagram.com/andre.lpd" target="_blank">andreufsm</a> </h4>
+</h4><h4 align="center"> <em>&lt;/&gt;</em> Me segue lá no <a href="https://instagram.com/andre.lpd" target="_blank">instagram</a> </h4>
